@@ -1,7 +1,7 @@
 import requests
 import random
 
-BOT_TOKEN = '1888690415:AAF0gwSPssyliGyIZF3fGPrQqtCOgFa-rrA'
+BOT_TOKEN = '' #YOUR TOKEN FROM BOTFATHER
 API_LINK = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 
